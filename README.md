@@ -10,6 +10,7 @@
 ## Meeting Information
 - **Schedule**: Thursdays, 7:30pm - 8:30pm
 - **Location**: Microsoft Teams
+- **Link to Teams Channel**: https://teams.microsoft.com/l/team/19%3A7u6FOYbIkk7NLclaCv9ucmdDrPBkvXReZm2ixYlEe601%40thread.tacv2/conversations?groupId=8ca48579-37f4-4060-9bf3-cfca2a74f25e&tenantId=128753ab-cb28-4f82-9733-2b9b91d2aca9
 - **Frequency**: 1 session per week
 
 ## Session Structure
