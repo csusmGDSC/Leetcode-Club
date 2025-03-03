@@ -6,7 +6,7 @@
 - **Founder / President**: Thanh Dat Vu
 - **Vice President**: Aaron Hamilton
 - **Treasurer**: Jacob Almon
-- **Offiers**: Mauro Malekshamran, Tarig Elamin, Chris Tran
+- **Officers**: Mauro Malekshamran, Tarig Elamin, Chris Tran
 
 ## Meeting Information
 - **Schedule**: Thursdays, 7:30pm - 8:30pm
